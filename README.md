@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KorichiAyoub
-- 👀 I’m interested in Articial Intelligence
-- 🌱 I’m currently working on NLP
+- 👀 I’m An AI Engeneer
+- 🌱 I’m currently working on Agentic AI for code repair
 - 💞️ I’m looking to collaborate on any project concerning AI applications
 - 📫 How to reach me: https://www.linkedin.com/in/ayoub-korichi-6b146a260/
 - 😄 Pronouns: He/Him
