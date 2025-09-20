@@ -5,8 +5,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/ayoub-korichi-6b146a260/
 - 😄 Pronouns: He/Him
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KorichiAyoub" alt="KorichiAyoub" /></a> </p>
-
 <!---
 KorichiAyoub/KorichiAyoub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -16,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=korichiayoub&show_icons=true&locale=en" alt="korichiayoub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korichiayoub&" alt="korichiayoub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=korichiayoub&show_icons=true&locale=en" alt="korichiayoub" /></p>
+
