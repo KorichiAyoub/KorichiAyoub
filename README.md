@@ -10,4 +10,4 @@ KorichiAyoub/KorichiAyoub is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 [![Top Committers — Algeria](https://img.shields.io/badge/Top%20Committers-Algeria-0366d6?style=for-the-badge&logo=github)](https://committers.top/algeria_private#KorichiAyoub)
-[![trophy](https://github-profile-trophy.vercel.app/?username=KorichiAyoub&rank=B)](https://github.com/KorichiAyoub/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KorichiAyoub&rank>=B)](https://github.com/KorichiAyoub/github-profile-trophy)
